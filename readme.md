@@ -1,17 +1,21 @@
 # AssignmentSync
+
 This is created to sync files with gdrive from PC with ease.
 
-## Features:
+## Features
+
 - Syncronise your assignment folder to GDrive with some simple clicks.
 - Maintain your assignment folder.
 - Download assignments of the whole semester for reviewing purpose.
 - No need to navigate through browser, no slow uploading hassle.
 
-## Requirements:
+## Requirements
+
 - Windows PC with Powershell installed. (usually comes pre-installed)
 - A working internet connection.
 
 ## Setup
+
 - Make sure there already exixts a folder on your Roll No. in [GDrive](https://drive.google.com/drive/folders/0AIkCYEURfAPlUk9PVA). If not make one.
 - If your Roll No is 1 then your foldername should be `RN 01`
 - Open Start Menu and search for `Powershell`.
