@@ -18,7 +18,7 @@ This is created to sync files with gdrive from PC with ease.
 
 ### Single Roll No
 
-- Make sure there already exixts a folder on your Roll No. in [GDrive](https://drive.google.com/drive/folders/0AIkCYEURfAPlUk9PVA). If not make one.
+- Make sure there already exists a folder on your Roll No. in [GDrive](https://drive.google.com/drive/folders/0AIkCYEURfAPlUk9PVA). If not make one.
 - If your Roll No is 1 then your foldername should be `RN 01`
 - Open Start Menu and search for `Powershell`.
 - Run Powershell as Admin.
