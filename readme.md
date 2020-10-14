@@ -22,7 +22,7 @@ This is created to sync files with gdrive from PC with ease.
 - If your Roll No is 1 then your foldername should be `RN 01`
 - Open Start Menu and search for `Powershell`.
 - Run Powershell as Admin.
-- Copy and paste below line `Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/Pabanjyoti/AssignmentSync/master/install_syncroniser.ps1" | Invoke-Expression`
+- Copy and paste below line ```Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/Pabanjyoti/AssignmentSync/master/install_syncroniser.ps1" | Invoke-Expression```
 - There will be a prompt if you want to syncronise a single Roll No Folder or the Whole Gdrive.
 - Type `y` for syncronising a single Roll No, then it will ask for a Rol No., type your roll no in two digit format(i.e.: type `01` if your roll no is 1)
 - Then it will create a folder names 'Assignments' in Desktop.
@@ -34,7 +34,7 @@ This is created to sync files with gdrive from PC with ease.
 
 - Open Start Menu and search for `Powershell`.
 - Run Powershell as Admin.
-- Copy and paste below line `Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/Pabanjyoti/AssignmentSync/master/install_syncroniser.ps1" | Invoke-Expression`
+- Copy and paste below line ```Invoke-WebRequest -UseBasicParsing "https://raw.githubusercontent.com/Pabanjyoti/AssignmentSync/master/install_syncroniser.ps1" | Invoke-Expression```
 - There will be a prompt if you want to syncronise a single Roll No Folder or the Whole Gdrive.
 - Type `n` for syncronising the whole GDrive to your pc.
 - It will create a folder named `3rd_Sem_Assignments` on your Desktop where all folders from the GDrive will be copied.
