@@ -1,6 +1,7 @@
 # AssignmentSync
 
 This is created to sync files with gdrive from PC with ease.
+(Contact me for rclone password)
 
 ## Features
 
